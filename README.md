@@ -23,7 +23,7 @@ qb-core/shared.lua
 
 ['empty_bottle'] 				 = {['name'] = 'empty_bottle', 			  	  	['label'] = 'Empty Bottle', 				['weight'] = 900, 		['type'] = 'item', 		['image'] = 'empty_bottle.png', 	   	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,   ['description'] = 'All we can say is It is empty'},
 
-['acid_bottle'] 				 = {['name'] = 'acid_bottle', 			  	  	['label'] = 'Acid Bottle', 				['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'acid_bottle.png', 	   		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,   ['description'] = 'Be Careful It might Explode!!'
+['acid_bottle'] 				 = {['name'] = 'acid_bottle', 			  	  	['label'] = 'Acid Bottle', 				['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'acid_bottle.png', 	   		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	  ['combinable'] = nil,   ['description'] = 'Be Careful It might Explode!!'},
 
 Step 2
 Make sure to add these in qb-core/client/functions.lua
